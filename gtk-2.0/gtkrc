@@ -1,6 +1,6 @@
-# Numix GTK Theme
+# Edge GTK Theme
 
-gtk-color-scheme = "bg_color:#e6e8eb\nfg_color:#31363D\nbase_color:#fefefe\ntext_color:#31363D\nselected_bg_color:#13b1d5\nselected_fg_color:#fefefe\ntooltip_bg_color:#fefefe\ntooltip_fg_color:#2d2d2d\ntitlebar_bg_color:#e6e8eb\ntitlebar_fg_color:#31363D\nmenubar_bg_color:#e6e8eb\nmenubar_fg_color:#31363D\ntoolbar_bg_color:#e6e8eb\ntoolbar_fg_color:#31363D\nmenu_bg_color:#fefefe\nmenu_fg_color:#31363D\npanel_bg_color:#31363D\npanel_fg_color:#fefefe\nlink_color:#df253f"
+gtk-color-scheme = "bg_color:#ffffff\nfg_color:#31363D\nbase_color:#fefefe\ntext_color:#31363D\nselected_bg_color:#3872c8\nselected_fg_color:#fefefe\ntooltip_bg_color:#fefefe\ntooltip_fg_color:#2d2d2d\ntitlebar_bg_color:#ffffff\ntitlebar_fg_color:#31363D\nmenubar_bg_color:#e6e8eb\nmenubar_fg_color:#31363D\ntoolbar_bg_color:#ffffff\ntoolbar_fg_color:#31363D\nmenu_bg_color:#fefefe\nmenu_fg_color:#31363D\npanel_bg_color:#31363D\npanel_fg_color:#fefefe\nlink_color:#df253f"
 
 # Default Style
 

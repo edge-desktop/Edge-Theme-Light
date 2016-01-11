@@ -5,8 +5,8 @@
 .search-bar.toolbar,
 .search-bar {
     padding: 7px;
-    background-color: @theme_bg_color;
-    color: @theme_fg_color;
+    background-color:transparent;
+    color: alpha(@theme_fg_color,0);
     border:none;
 }
 
